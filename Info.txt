@@ -1,0 +1,4 @@
+# GRH-Executor-Info
+
+If You Want You Can Use This GitHub To Always Have Updated Dll Link
+Supported Dlls: krnl, delta, wrd, fluxus, electron, oxygen u
