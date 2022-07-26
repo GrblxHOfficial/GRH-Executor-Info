@@ -6,3 +6,4 @@ Zyrex Hub == _G.Toggle_GUI = Enum.KeyCode.RightControl loadstring(game:HttpGet((
 Bolts Ware == loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5"))();
 Vape Hub == loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
 Backdoor.exe == loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/master/source.lua"))();
+VG-Hub == loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))();
