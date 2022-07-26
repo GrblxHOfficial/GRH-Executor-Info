@@ -7,3 +7,4 @@ Bolts Ware == loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiong
 Vape Hub == loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))();
 Backdoor.exe == loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/master/source.lua"))();
 VG-Hub == loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))();
+Dex Hub == loadstring(game:HttpGet("https://raw.githubusercontent.com/BinaryDex/DexHub/main/Init"))();
