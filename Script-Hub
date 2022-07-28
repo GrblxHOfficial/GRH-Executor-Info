@@ -8,4 +8,4 @@ Vape Hub == loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDad
 Backdoor.exe == loadstring(game:HttpGet("https://raw.githubusercontent.com/iK4oS/backdoor.exe/master/source.lua"))();
 VG-Hub == loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))();
 Dex Hub == loadstring(game:HttpGet("https://raw.githubusercontent.com/BinaryDex/DexHub/main/Init"))();
-Eclipse Hub == getgenv().mainKey = "nil"local a,b,c,d,e=loadstring, request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)();
+Eclipse Hub (krnl only) == getgenv().mainKey = "nil"local a,b,c,d,e=loadstring, request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https://api.eclipsehub.xyz/auth"c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)();
