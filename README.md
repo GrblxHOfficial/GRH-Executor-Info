@@ -1,4 +1,4 @@
-# this file looks trashy in the view, go to raw for better expirience...
+# go to raw.
 # epik guide for C#
 //using System.Net ig???
 using System.Net;
